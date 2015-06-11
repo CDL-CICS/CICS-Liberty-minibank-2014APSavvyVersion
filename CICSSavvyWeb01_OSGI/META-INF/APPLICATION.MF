@@ -1,0 +1,7 @@
+Application-Name: CICSSavvyWeb01_OSGI
+Application-SymbolicName: CICSSavvyWeb01_OSGI
+Application-ManifestVersion: 1.0
+Application-Version: 1.0.0.qualifier
+Application-Content: CICSSavvyWeb01;version="1.0.0"
+Manifest-Version: 1.0
+

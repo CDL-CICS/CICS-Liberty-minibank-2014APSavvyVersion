@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><cicsdefinitionprogram jvm="YES" jvmclass="com.ibm.cics.savvy.trans.QueryUser" jvmserver="OSGITEST" name="QURYUSER" xmlns="http://www.ibm.com/xmlns/prod/CICS/smw2int"/>
